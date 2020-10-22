@@ -7,7 +7,8 @@ This program can be used to measure the intensity values from the microphone. Th
 Instead of recording the audio by the use of soundfile, you may send the audio to the server for appropriate processing like speech to text processing
 
 
-## Prerequisites
+## Python Package Prerequisites
+- Python >= 3
 - pyaudio
 - os
 - struct
