@@ -12,7 +12,7 @@ Instead of recording the audio by the use of soundfile, you may send the audio t
 - pyaudio
 - os
 - struct
-- matplotlib-
+- matplotlib
 - time
 - soundfile
 - numpy
